@@ -1,3 +1,7 @@
+<img width="848" height="395" alt="customer shopping behavior" src="https://github.com/user-attachments/assets/c2dc2456-3af4-464c-94e1-9b0f0e8a963f" />
+
+
+
 # Customer-shopping-behavior-Analysis-project
 # Overview
 This project analyzes shopping behavior for a retail company. The goal is to identify trends and give practical business recommendations. The work follows the CRISP DM framework. The project does not include predictive modeling. It focuses on data preparation, SQL analysis, and a Power BI dashboard.
