@@ -1,4 +1,4 @@
-<img width="848" height="395" alt="customer shopping behavior" src="https://github.com/user-attachments/assets/c2dc2456-3af4-464c-94e1-9b0f0e8a963f" />
+<img width="774" height="389" alt="customer shopping behavior" src="https://github.com/user-attachments/assets/076600cb-3040-4204-b102-30e8788daea9" />
 
 
 
